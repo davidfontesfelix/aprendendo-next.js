@@ -1,0 +1,15 @@
+.navegador{
+  background-color: dodgerblue;
+  height: 70px;
+  margin: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+
+  a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+  }
+}
